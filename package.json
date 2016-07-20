@@ -284,7 +284,8 @@
     "Jon Bretman <jon.bretman@gmail.com>",
     "Jonathan ES Lin <ernsheong@gmail.com>",
     "Julian Connor <julian.connor@venmo.com>",
-    "Jurko Gospodnetić <jurko.gospodnetic@pke.hr>"
+    "Jurko Gospodnetić <jurko.gospodnetic@pke.hr>",
+    "Andrew Morris <voltrevo@gmail.com>"
   ],
   "dependencies": {
     "bluebird": "^3.3.0",
